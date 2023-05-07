@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.iconrotation
+Name: IconRotation
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Rotate your icons with device orientation!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: mobilesubstrate
